@@ -32,7 +32,7 @@ path:/ldir
 
 IBM_CF_USERNAME	ldir262217
 IBM_CF_PASSWORD	IBM Cloud 邮箱密码
-IBM_CF_APP_NAME	IBM Cloud v2
+IBM_CF_APP_NAME	IBM Cloud ldir-v2
 V2_UUID	自定义UUID码
 V2_WS_PATH_VMESS    /ldir
 V2_WS_PATH_VLESS	/ldir
